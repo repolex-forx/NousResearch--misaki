@@ -315,7 +315,9 @@
           "githubUrl": "https://github.com/undertheseanlp/underthesea",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f03fd2be7346952a83d3d4845c217fc7667f322d/chunk-001.nq.gz",
+      "dep": "dep/f03fd2be7346952a83d3d4845c217fc7667f322d.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
