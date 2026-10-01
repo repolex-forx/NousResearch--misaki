@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "misaki",
+  "versions": [
+    {
+      "commit": "f03fd2be7346952a83d3d4845c217fc7667f322d",
+      "tag": "main",
+      "parsed_at": "2026-10-01T07:36:56.026832+00:00"
+    }
+  ]
+}
