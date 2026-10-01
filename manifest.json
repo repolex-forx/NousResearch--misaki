@@ -78,6 +78,243 @@
       ],
       "ast": [
         "aggregate/ast/f03fd2be7346952a83d3d4845c217fc7667f322d/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f03fd2be7346952a83d3d4845c217fc7667f322d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "addict",
+          "ecosystem": "PYPI",
+          "version": "2.4.0",
+          "githubOrg": "mewwts",
+          "githubRepo": "addict",
+          "githubCommit": "338936265dd924ec5892aeee9c122d7e4f77680d",
+          "githubTag": "v2.4.0",
+          "githubUrl": "https://github.com/mewwts/addict",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pip",
+          "ecosystem": "PYPI",
+          "version": "25.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "pip",
+          "githubCommit": "bc7c88cb3de9c9af769c51517833ea48bbe70d9a",
+          "githubTag": "25.0.1",
+          "githubUrl": "https://github.com/pypa/pip",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "regex",
+          "ecosystem": "PYPI",
+          "version": "2026.9.29",
+          "githubOrg": "mrabarnett",
+          "githubRepo": "mrab-regex",
+          "githubCommit": "0e8cb0596ba6572c66e5d153a1d7c901b381e15e",
+          "githubTag": "2026.9.29",
+          "githubUrl": "https://github.com/mrabarnett/mrab-regex",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "num2words",
+          "ecosystem": "PYPI",
+          "version": "0.5.14",
+          "githubOrg": "savoirfairelinux",
+          "githubRepo": "num2words",
+          "githubCommit": "6abe2c64714a38e41de23fe20fa319d0ad2fd845",
+          "githubTag": "v0.5.14",
+          "githubUrl": "https://github.com/savoirfairelinux/num2words",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "spacy",
+          "ecosystem": "PYPI",
+          "version": "4.0.0.dev3",
+          "githubOrg": "explosion",
+          "githubRepo": "spaCy",
+          "githubCommit": "f4c8fdfaad15490be1f1e1a6c3f068a8f4b57105",
+          "githubTag": "v4.0.0.dev3",
+          "githubUrl": "https://github.com/explosion/spaCy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "spacy-curated-transformers",
+          "ecosystem": "PYPI",
+          "version": "2.1.2",
+          "githubOrg": "explosion",
+          "githubRepo": "spacy-curated-transformers",
+          "githubUrl": "https://github.com/explosion/spacy-curated-transformers",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "phonemizer-fork",
+          "ecosystem": "PYPI",
+          "version": "3.3.2",
+          "githubOrg": "bootphon",
+          "githubRepo": "phonemizer",
+          "githubUrl": "https://github.com/bootphon/phonemizer",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "torch",
+          "ecosystem": "PYPI",
+          "version": "2.14.1",
+          "githubOrg": "pytorch",
+          "githubRepo": "pytorch",
+          "githubCommit": "5c4886908584029761b579af026dcfb627c84070",
+          "githubTag": "v2.14.1",
+          "githubUrl": "https://github.com/pytorch/pytorch",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "transformers",
+          "ecosystem": "PYPI",
+          "version": "5.18.0",
+          "githubOrg": "huggingface",
+          "githubRepo": "transformers",
+          "githubCommit": "a906d3c4b65095f2308b6a6a193e934d03b8eb5d",
+          "githubTag": "v5.18.0",
+          "githubUrl": "https://github.com/huggingface/transformers",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "fugashi",
+          "ecosystem": "PYPI",
+          "version": "1.5.2",
+          "githubOrg": "polm",
+          "githubRepo": "fugashi",
+          "githubCommit": "1576b66a2bf8173da50e1930791f0dcb96111590",
+          "githubTag": "v1.5.2",
+          "githubUrl": "https://github.com/polm/fugashi",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaconv",
+          "ecosystem": "PYPI",
+          "version": "0.5.0",
+          "githubOrg": "ikegami-yukino",
+          "githubRepo": "jaconv",
+          "githubCommit": "4a1ea0b7a88602ac525c138b519bdd9d3e545449",
+          "githubTag": "v0.5.0",
+          "githubUrl": "https://github.com/ikegami-yukino/jaconv",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mojimoji",
+          "ecosystem": "PYPI",
+          "version": "0.0.13",
+          "githubOrg": "studio-ousia",
+          "githubRepo": "mojimoji",
+          "githubCommit": "2fb1f46c96f716da596f02707fdfae8621be6c98",
+          "githubTag": "v0.0.13",
+          "githubUrl": "http://github.com/studio-ousia/mojimoji",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "unidic",
+          "ecosystem": "PYPI",
+          "version": "1.1.0",
+          "githubOrg": "polm",
+          "githubRepo": "unidic-py",
+          "githubCommit": "c33981ba6d513fc7196c82a346a3199dfc9f5663",
+          "githubTag": "v1.1.0",
+          "githubUrl": "https://github.com/polm/unidic-py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pyopenjtalk",
+          "ecosystem": "PYPI",
+          "version": "0.4.1",
+          "githubOrg": "r9y9",
+          "githubRepo": "pyopenjtalk",
+          "githubCommit": "0f0fc44e782a8134cd9a51d80b57b48a7c95bb80",
+          "githubTag": "v0.4.1",
+          "githubUrl": "https://github.com/r9y9/pyopenjtalk",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jamo",
+          "ecosystem": "PYPI",
+          "version": "0.4.1",
+          "githubOrg": "jdongian",
+          "githubRepo": "python-jamo",
+          "githubCommit": "d087a9f5f52f066fb933ad1da8e9915703374c9a",
+          "githubTag": "v0.4.1",
+          "githubUrl": "https://github.com/jdongian/python-jamo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "nltk",
+          "ecosystem": "PYPI",
+          "version": "3.10.3",
+          "githubOrg": "nltk",
+          "githubRepo": "nltk",
+          "githubCommit": "303f6e2ba8e4548a5f54fd65d86bb5c9a949f1db",
+          "githubTag": "v3.10.3",
+          "githubUrl": "https://github.com/nltk/nltk",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jieba",
+          "ecosystem": "PYPI",
+          "version": "0.42.1",
+          "githubOrg": "fxsjy",
+          "githubRepo": "jieba",
+          "githubCommit": "1e20c89b66f56c9301b0feed211733ffaa1bd72a",
+          "githubTag": "v0.42.1",
+          "githubUrl": "https://github.com/fxsjy/jieba",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "ordered-set",
+          "ecosystem": "PYPI",
+          "version": "4.1.0",
+          "githubOrg": "rspeer",
+          "githubRepo": "ordered-set",
+          "githubCommit": "d921651b2737f5cfe711868fab558a8ef79e26ca",
+          "githubTag": "release/4.1.0",
+          "githubUrl": "https://github.com/rspeer/ordered-set",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pypinyin",
+          "ecosystem": "PYPI",
+          "version": "0.55.0",
+          "githubOrg": "mozillazg",
+          "githubRepo": "python-pinyin",
+          "githubCommit": "df101577145af2eb1abe5656e592e34e3bb56d23",
+          "githubTag": "v0.55.0",
+          "githubUrl": "https://github.com/mozillazg/python-pinyin",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "cn2an",
+          "ecosystem": "PYPI",
+          "version": "0.5.24",
+          "githubOrg": "Ailln",
+          "githubRepo": "cn2an",
+          "githubUrl": "https://github.com/Ailln/cn2an",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pypinyin-dict",
+          "ecosystem": "PYPI",
+          "version": "0.9.0",
+          "githubOrg": "mozillazg",
+          "githubRepo": "pypinyin-dict",
+          "githubCommit": "d8a12d70ea14a929f296f21f4c493b3ce5d0b14a",
+          "githubTag": "v0.9.0",
+          "githubUrl": "https://github.com/mozillazg/pypinyin-dict",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "underthesea",
+          "ecosystem": "PYPI",
+          "version": "9.5.0",
+          "githubOrg": "undertheseanlp",
+          "githubRepo": "underthesea",
+          "githubUrl": "https://github.com/undertheseanlp/underthesea",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],

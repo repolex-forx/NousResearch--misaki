@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/misaki/commit/f03fd2be7346952a83d3d4845c217fc7667f322d",
       "git:hexsha": "f03fd2be7346952a83d3d4845c217fc7667f322d",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
