@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/misaki/commit/f03fd2be7346952a83d3d4845c217fc7667f322d",
+  "@type": "git:Commit",
+  "git:hexsha": "f03fd2be7346952a83d3d4845c217fc7667f322d",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/NousResearch/misaki"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/f03fd2be7346952a83d3d4845c217fc7667f322d.nq.gz",
+      "repolex:graphFileSize": 9626
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 24914
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 406
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-01T06:54:59.499663+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "main"
+}
