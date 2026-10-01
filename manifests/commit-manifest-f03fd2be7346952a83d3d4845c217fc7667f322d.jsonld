@@ -35,7 +35,7 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "repolex",
       "repolex:graphFilePath": "aggregate/repolex/f03fd2be7346952a83d3d4845c217fc7667f322d/chunk-001.nq.gz",
-      "repolex:graphFileSize": 1237569
+      "repolex:graphFileSize": 1237624
     },
     {
       "@type": "repolex:GraphFile",
@@ -57,7 +57,7 @@
     }
   ],
   "repolex:parseStatus": "parsed",
-  "repolex:parsedAt": "2026-10-01T07:36:56.026832+00:00",
+  "repolex:parsedAt": "2026-10-01T07:37:24.740258+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "main",
   "repolex:dependencyRepo": [
